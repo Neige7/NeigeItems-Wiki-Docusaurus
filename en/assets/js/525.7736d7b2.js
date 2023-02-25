@@ -1,1 +1,0 @@
-(self.webpackChunkneige_items_wiki_docusaurus=self.webpackChunkneige_items_wiki_docusaurus||[]).push([[525],{5525:()=>{}}]);
